@@ -4,6 +4,10 @@ This is a web application that predicts the likelihood of a diabetes attack base
 
 ![Diabetes Prediction](https://images.squarespace-cdn.com/content/v1/5beb1276365f0260572d41cd/1542866801904-NGKEOBM6CT6950DIU53Q/Diabetes.jpg)
 
+
+view the demo of the project at : https://www.linkedin.com/feed/update/urn:li:ugcPost:7113560546708242432/
+
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
