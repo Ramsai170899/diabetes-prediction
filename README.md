@@ -7,10 +7,7 @@ This is a web application that predicts the likelihood of a diabetes attack base
 ## Table of Contents
 
 - [Project Overview](#project-overview)
-- [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
@@ -26,32 +23,6 @@ This is a web application that predicts the likelihood of a diabetes attack base
 - Flask (for the web application)
 - Scikit-learn (for machine learning)
 - HTML/CSS (for the user interface)
-
-## Getting Started
-
-To run the web application locally, follow these steps:
-
-1. Clone this repository to your local machine:
-
-```bash
-git clone https://github.com/your-username/diabetes-prediction-app.git
-
-2. Navigate to the project directory:
-
-```bash
-cd diabetes-prediction-app
-
-3. Install the required dependencies:
-
-```bash
-pip install -r requirements.txt
-
-4. Run the Flask application:
-
-```bash
-python app.py
-
-5. Open your web browser and go to http://localhost:5000 to access the web application.
 
 
 ## Usage
