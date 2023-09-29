@@ -35,3 +35,42 @@ To run the web application locally, follow these steps:
 
 ```bash
 git clone https://github.com/your-username/diabetes-prediction-app.git
+
+2. Navigate to the project directory:
+
+```bash
+cd diabetes-prediction-app
+
+3. Install the required dependencies:
+
+```bash
+pip install -r requirements.txt
+
+4. Run the Flask application:
+
+```bash
+python app.py
+
+5. Open your web browser and go to http://localhost:5000 to access the web application.
+
+
+## Usage
+
+1. Fill out the form on the web page with the following information:
+
+   - Gender
+   - Age
+   - Hypertension status (Yes or No)
+   - Heart disease history (Yes or No)
+   - Smoking history
+   - BMI (Body Mass Index)
+   - HbA1c level
+   - Blood glucose level
+
+2. Click the "Predict" button.
+
+3. The application will display a prediction result along with a descriptive sentence indicating the likelihood of a diabetes attack.
+
+
+
+
